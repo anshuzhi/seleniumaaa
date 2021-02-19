@@ -1,0 +1,4 @@
+cookies={"lastCity=101180100;_bl_uid=C6kpjjaI70FwO81qRssR7Owj8t5e; wt2=dGaxKbb5rhqFl7Ch; __zp_seo_uuid__=c931fbf9-04f5-4cac-b75d-abdfebe4d344; __g=-; __l=r=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DIMsEbBe-kmTRYuKGfNwLhopBcT7-oOEHGuQfT6rf1oWSSmRn-5A29VudpfE_Lnw1%26wd%3D%26eqid%3D96e9edee0005e0ae0000000260124d54&l=%2Fwww.zhipin.com%2Fzhengzhou%2F&s=1&g=&s=3&friend_source=0; Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1609752227,1611800957,1611803513,1611812187; __c=1611812187; __a=79191964.1607772421.1611800959.1611812187.37.6.9.12; __zp_stoken__=19babaWd1UQpkBUFwBQtvIFVcV2oobC9zdjo8E2suFhcjV2wAPgwQexAFBn91bTM6BRxKLiAGHDN9DEAkAgFfLR56NCIxClM1A24HSCR3VGxLEFlJTXstBhxPVXROSQVTA01AFzt9Rxt8BQlHeg%3D%3D; Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1611813011"}
+data=str(cookies).replace(";",'","')
+data=data.replace("=",'":"')
+print(data)
