@@ -14,3 +14,5 @@ data=driver.page_source
 
 print(data)
 # driver.quit()
+
+A="我新增了一段话"
